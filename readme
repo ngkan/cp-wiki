@@ -1,0 +1,5 @@
+This is a wiki page for all things competitive programming. 
+
+For a more practical cp system, checkout cpl.
+
+To run locally, `bundle exec jekyll serve`.
